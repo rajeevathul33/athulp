@@ -1,7 +1,9 @@
 # 10 day internship
 ## day 1
 ## day 2
-## day 3
+## day 3 
+## and
+![and](https://github.com/rajeevathul33/athulp/blob/main/and.png)
 // C++ code
 //
 void setup()
