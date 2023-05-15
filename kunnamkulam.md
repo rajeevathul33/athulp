@@ -25,7 +25,7 @@ void loop()
 
 ## day 5
 ## and
-!.[and](https://github.com/rajeevathul33/athulp/blob/main/Screenshot%20from%202023-05-15%2014-30-16.png)
+![and](https://github.com/rajeevathul33/athulp/blob/main/Screenshot%20from%202023-05-15%2014-30-16.png)
 
 const int potPin = 0;
 
