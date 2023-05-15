@@ -25,4 +25,16 @@ void loop()
 
 ## day 5
 ## and
-!.[and].
+!.[and](https://github.com/rajeevathul33/athulp/blob/main/Screenshot%20from%202023-05-15%2014-30-16.png)
+
+const int potPin = 0;
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int potValue = analogRead(potPin);
+  Serial.println(potValue);
+  delay(100);
+}
