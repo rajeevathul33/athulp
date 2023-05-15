@@ -24,3 +24,5 @@ void loop()
 
 
 ## day 5
+## and
+!.[and].
