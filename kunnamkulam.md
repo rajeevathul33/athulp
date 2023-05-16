@@ -38,3 +38,6 @@ void loop() {
   Serial.println(potValue);
   delay(100);
 }
+
+
+## day
