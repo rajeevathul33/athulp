@@ -21,6 +21,6 @@ void loop() {
     digitalWrite(13,LOW);
   }// debug value
 }
-
+![smart](https://github.com/rajeevathul33/athulp/blob/main/smart%20.png)
 
 
