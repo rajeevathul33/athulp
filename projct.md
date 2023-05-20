@@ -1,4 +1,4 @@
-[hello](https://www.tinkercad.com/things/0R3PTyPYjxt-glorious-fyyran-albar)
+[smart letter box](https://www.tinkercad.com/things/0R3PTyPYjxt-glorious-fyyran-albar)
 
 
 int analogPin = A0; // potentiometer wiper (middle terminal) connected to analog pin 3
